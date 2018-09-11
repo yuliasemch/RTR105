@@ -8,7 +8,7 @@ Ctrl + l - ekrānu tirišana
 Ctrl + u - noraida visus simbolus pa kreisi no kursora līdz rindas sākumam  
 Ctrl + w - noraida simbolus pa kreisi no kursora līdz vārda sākumam  
 Ctrl + xx - pārvietojas no tekošās kursora pozīcijas līdz rindas sākumam un atpakaļ  
-ctrl + alt + t - atvert terminālu  
+Ctrl + alt + t - atvert terminālu  
 firefox & - atvert Firefox brauzeru  
 Alt + < - pāreja pie pirmās komandas vēsturē  
 Alt + > - pāreja uz pēdējo komandu vēsturē  
@@ -26,3 +26,4 @@ echo $0 - skripta nosaukums
 who - kas ir piesliegts  
 whoami - kas esmu ir  
 pwd - kur atrodas  
+kill -l - visu signālu caurskatīšana  
