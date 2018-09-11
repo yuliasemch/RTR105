@@ -18,16 +18,11 @@ Alt + f - Pārvieto kursoru uz vienu vārdu uz priekšu
 Komandas:  
 burts + Tab(x2) - komandu saraksts  
 uname - informācija par sistemu  
-man uname  
+ls - Parādiet direktorijas saturu (failu nosaukumu saraksts)  
+ls -l - visi faili ar detalizētu informāciju par tiem  
+ls -a - Parādiet visus failus, tostarp slēptos failus/mapes  
 uname -a - var noskaidrot Linux veidu  
 echo $0 - skripta nosaukums  
 who - kas ir piesliegts  
 whoami - kas esmu ir  
-sh  
 pwd - kur atrodas  
-man pwd  
-ls  
-ls -l  
-man ls  
-ls -a  
-ls -la  
