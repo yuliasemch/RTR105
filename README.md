@@ -27,3 +27,19 @@ who - kas ir piesliegts
 whoami - kas esmu ir  
 pwd - kur atrodas  
 kill -l - visu signālu caurskatīšana  
+man ls - apraksts ls komandai  
+. - tekoša direktorija  
+cd . - samainīt direktoriju  
+cd .. - var piecelties uz vienu līmeni uz augšu attiecībā tekošai direktorijai  
+cd ~ - atgriežas jūs savā mājas direktorijā  
+cd ~_cits lietotājs_ - Pārvietojas _uz cita lietotāja_ mājas direktoriju  
+mkdir - mapes veidošana  
+rmdir - dzēst mapi  
+rm -r - nodzēst mapi ar visiem apakšmapiem  
+echo "_Teksts_" - lai attēlot tekstu  
+echo -e "Teksts/nCits teksts" - _Teksts  
+                                 Cits teksts_  
+echo "_Teksts_" > fails.txt - izveidot failu ar tekstu _Teksts_  
+cat - nolasījām faila saturu kā tekstu  
+cp fails1.txt fails3.txt - kopēšana fails1.txt uz fails3.txt  
+mv *.txt Music/ - parvietot visus failus ar paplašinājumu _txt_ 
