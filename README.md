@@ -1,6 +1,6 @@
 # RTR1105
 **_Datormācības kursa elektroniskā klade_**  
-Karstas klavišas:  
+**Karstas klavišas:**  
 Ctrl + b - doties uz 1 simbolu atpakaļ  
 Ctrl + e - pāreja uz rindas beigām  
 Ctrl + f - doties uz 1 simbolu uz priekšu  
@@ -15,7 +15,7 @@ Alt + > - pāreja uz pēdējo komandu vēsturē
 Alt + b - pārvieto kursoru pa kreisi uz vienu vārdu  
 Alt + c - padara burtu zem kursora par lielu  
 Alt + f - Pārvieto kursoru uz vienu vārdu uz priekšu  
-Komandas:  
+**Komandas:**  
 burts + Tab(x2) - komandu saraksts  
 uname - informācija par sistemu  
 ls - Parādiet direktorijas saturu (failu nosaukumu saraksts)  
