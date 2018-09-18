@@ -1,5 +1,5 @@
 # RTR1105
-**Datormācības kursa elektroniskā klade**  
+**_Datormācības kursa elektroniskā klade_**  
 Karstas klavišas:  
 Ctrl + b - doties uz 1 simbolu atpakaļ  
 Ctrl + e - pāreja uz rindas beigām  
