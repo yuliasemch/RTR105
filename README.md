@@ -28,6 +28,7 @@ whoami - kas esmu ir
 pwd - kur atrodas  
 kill -l - visu signālu caurskatīšana  
 man ls - apraksts ls komandai  
+______________________________________________________________________________
 . - tekoša direktorija  
 cd . - samainīt direktoriju  
 cd .. - var piecelties uz vienu līmeni uz augšu attiecībā tekošai direktorijai  
