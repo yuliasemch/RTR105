@@ -44,3 +44,4 @@ echo "_Teksts_" > fails.txt - izveidot failu ar tekstu _Teksts_
 cat - nolasījām faila saturu kā tekstu  
 cp fails1.txt fails3.txt - kopēšana fails1.txt uz fails3.txt  
 mv *.txt Music/ - parvietot visus failus ar paplašinājumu _txt_ 
+rm *3*.txt - nodzēst visus failus, kuros nosaukumos ir _3_ un paplašināums _txt_  
