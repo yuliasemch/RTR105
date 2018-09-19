@@ -47,3 +47,9 @@ cp fails1.txt fails3.txt - kopēšana fails1.txt uz fails3.txt
 mv *.txt Music/ - parvietot visus failus ar paplašinājumu _txt_  
 rm *3*.txt - nodzēst visus failus, kuros nosaukumos ir _3_ un paplašināums _txt_  
 history > history_20180912.txt - faila history_20180912.txt veidošana  
+______________________________________________________________________________
+$PATH - sistēmas vides mainīgais  
+= - piešķiršanas operācija  
+chmod - faila redakcija  
+nano - teksta redaktors  
+git clone https://github.com/yuliasemch/RTR1105 - repozitorijas klonēšana  
