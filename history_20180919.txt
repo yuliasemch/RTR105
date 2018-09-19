@@ -54,3 +54,13 @@
    54  mv git-uploaf git-upload
    55  ls -l
    56  history > history_20180919.txt
+   57  ls -l
+   58  pwd
+   59  ls -l
+   60  ./git-upload 20180919_09_50
+   61  python
+   62  ipython
+   63  idle
+   64  idle &
+   65  ls -l
+   66  history > history_20180919.txt
