@@ -1,4 +1,4 @@
-# RTR1105
+# RTR105
 **_Datormācības kursa elektroniskā klade_**  
 
 **Karstas klavišas:**  
