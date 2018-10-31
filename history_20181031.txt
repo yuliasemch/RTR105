@@ -1,0 +1,20 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  pwd
+    5  idle &
+    6  git clone https://github.com/yuliasemch/RTR105
+    7  cd RTR105
+    8  nano mbox.txt
+    9  ls -l
+   10  open("mbox.txt","r")
+   11  open("mbox.txt")
+   12  pwd
+   13  mbox.txt
+   14  open("mbox.txt","r")
+   15  ls -lt
+   16  cat mbox.txt
+   17  history
+   18  nano mbox-short.txt
+   19  nano README.md
+   20  history > history_20181031.txt
