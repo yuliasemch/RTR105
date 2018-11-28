@@ -52,7 +52,7 @@ $PATH - sistēmas vides mainīgais
 = - piešķiršanas operācija  
 chmod - faila redakcija  
 nano - teksta redaktors  
-git clone https://github.com/yuliasemch/RTR1105 - repozitorijas klonēšana  
+git clone https://github.com/yuliasemch/RTR105 - repozitorijas klonēšana  
 ______________________________________________________________________________
 N - vienmerīgi sadalīti gadījuma skaitļi - uniformly distributed random numbers  
 numpy - Pythona modulis, kas nodrošina visparīgu matemātisku un skaitlisku darbību.  
