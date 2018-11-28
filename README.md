@@ -62,4 +62,4 @@ numpy.random.uniform - ņem paraugus no vienota izplatīšanas
 if-elif-else - kuru darbību veikt, atkarībā no mainīgo lieluma vērtības apstākļa pārbaudes brīdī  
 for - cikls  
 plt.show() - parāda figuras attēlu  
-
+range() - veido sarakstu  
