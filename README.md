@@ -53,4 +53,13 @@ $PATH - sistēmas vides mainīgais
 chmod - faila redakcija  
 nano - teksta redaktors  
 git clone https://github.com/yuliasemch/RTR1105 - repozitorijas klonēšana  
+______________________________________________________________________________
+N - vienmerīgi sadalīti gadījuma skaitļi - uniformly distributed random numbers
+numpy - Pythona modulis, kas nodrošina visparīgu matemātisku un skaitlisku darbību.
+numpy.random.seed - (pseido) gadījumu skaitļu ģeneratora "grauds"
+random.sample - generē pseido-random skaitļus
+numpy.random.uniform - ņem paraugus no vienota izplatīšanas
+if-elif-else - kuru darbību veikt, atkarībā no mainīgo lieluma vērtības apstākļa pārbaudes brīdī
+for - cikls
+plt.show() - parāda figuras attēlu
 
