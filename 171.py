@@ -1,19 +1,19 @@
-# Fails : 170.py
+# Fails : 171.py
 # Autors : Yulia Semchenkova
 # Apliecibas numurs: 181REB329
 # Datums: 14.11.2018.
 # Sagatave funkcijas saknes mekleeshanai ar dihatomijas metodi
 
 # -*- coding: utf-8 -*-
-from math import sin, fabs
+from math import asin, fabs
 from time import sleep
 
 def f(x):
-    return sin(x)
+    return asin(x)
 
 # Definejam argumenta x robezhas:
-a = 1.1
-b = 3.2
+a = -1
+b = 1
 
 # Aprekjinam funkcijas vertibas dotajos punktos:
 funa = f(a)
